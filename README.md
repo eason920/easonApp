@@ -1,5 +1,5 @@
 # 電影收藏
-## Async Storage 資料儲存useState 變數傳導、Effect Hook 控制各階端渲染效能
+## Async Storage 資料儲存、useState 變數傳導、Effect Hook 控制各階端渲染效能、components 模組化重覆利用元件
 - `初始畫面`
 <div align="left">
 <img src="https://github.com/eason920/easonApp/blob/main/src/images/thumbnail/normal.jpg" width="30%"/>
