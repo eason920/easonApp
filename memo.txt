@@ -1,0 +1,5 @@
+Tab only
+>> 加裝 npx expo 
+編譯apk：成功
+安裝apk：成功
+開啟：成功
